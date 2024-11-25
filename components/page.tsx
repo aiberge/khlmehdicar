@@ -362,7 +362,7 @@ export function HomePage() {
                     <h3 className="text-xl font-semibold mb-2">Adresse</h3>
                     <p className="text-gray-600">Notre agence</p>
                     <p className="text-gray-800 mt-1">
-                      Route de Rabat, Complexe Irfane 2 IMM A3 Magasin 2, Tanger 90000
+                       G37C+W3G, Had Gharbia
                     </p>
                   </div>
                 </div>
@@ -439,7 +439,7 @@ export function HomePage() {
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">Notre emplacement</h3>
                 <p className="text-gray-600">
-                  Idéalement situé à Tanger, notre agence est facilement accessible depuis la Route de Rabat.
+                  Idéalement situé à Tanger, notre agence est facilement accessible depuis la cart de google map.
                 </p>
               </div>
             </div>
