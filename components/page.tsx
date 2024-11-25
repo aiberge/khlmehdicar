@@ -144,7 +144,7 @@ export function HomePage() {
           <div className="flex items-center">
             <Image
               src="/khlogoe.png"
-              alt="KHL CAR Logo"
+              alt="KHL CAR SARL Logo"
               width={280}
               height={280}
               className="h-auto"
@@ -210,7 +210,7 @@ export function HomePage() {
           className="relative z-10 text-white max-w-3xl mx-auto px-4 text-center"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-4">
-            KHL CAR
+            KHL CAR SARL
           </h1>
           <p className="text-xl md:text-2xl mb-8">
             Votre partenaire de confiance pour la location de voitures à Tanger
@@ -282,7 +282,7 @@ export function HomePage() {
       {/* About Section */}
       <section id="apropos" className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <h2 className="text-4xl font-bold mb-12 text-center text-[#FFC300]">À Propos de KHL CAR</h2>
+          <h2 className="text-4xl font-bold mb-12 text-center text-[#FFC300]">À Propos de KHL CAR SARL</h2>
           <div className="flex flex-col md:flex-row items-center justify-center gap-12">
             <div className="w-full md:w-1/2">
               <Image
@@ -300,7 +300,7 @@ export function HomePage() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold mb-2">Notre Passion</h3>
-                  <p>Fondée par des passionnés d&apos;automobiles, KHL CAR offre une expérience de conduite inégalée depuis 2015.</p>
+                  <p>Fondée par des passionnés d&apos;automobiles, KHL CAR SARL offre une expérience de conduite inégalée depuis 2015.</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -452,7 +452,7 @@ export function HomePage() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <p>&copy; 2024 KHL CAR. Tous droits réservés.</p>
+              <p>&copy; 2024 KHL CAR SARL. Tous droits réservés.</p>
             </div>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-white transition-colors duration-300">
